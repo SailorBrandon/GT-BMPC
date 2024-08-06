@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="motion_primitive_planner" name="mpp_node" type="mpp_node.py" output="screen" ns="motion_planner"/>
+</launch>
